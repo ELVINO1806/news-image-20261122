@@ -270,7 +270,7 @@ STORIES = [
     (12, "SEOUL", "Education minister Choi Kyo-jin resigns over an AI cheating scandal in a tax exam. (BBC, GUARDIAN, YONHAP)"),
     (13, "BANTEN", "Rescuers search a candy factory after Saturday's blaze; 3 dead, 37 unaccounted for, officials said. (AP, REUTERS)"),
     (14, "TOKYO", "Saudi Arabia agrees to triple crude stored in Japan to 24 million barrels. (JAPAN TODAY)"),
-    (15, "BAHRAIN/GULF", "Iran's Bahrain strike is condemned by Saudi Arabia, Qatar and the UAE; Tehran says two Patriot radars were hit, a claim the Gulf side rejects. (MEE, FRANCE 24)"),
+    (15, "BAHRAIN/GULF", "Saudi Arabia, Qatar and UAE condemn Iran's Bahrain strike; Iran says two Patriot radars hit, Gulf side denies claim. (MEE, FRANCE 24)"),
     (16, "RABIGH", "Houthis say they hit the Rabigh oil refinery; the coalition says it intercepted a drone and a missile. (STRAITS TIMES, MEE)"),
     (17, "GAZA", "Israeli fire kills 2 Palestinians in Gaza; a drone strike near Deir al-Balah kills 1. Settlers torch vehicles near Ramallah. (FRANCE 24)"),
     (18, "IRAN", "Trump dares Iran to break the US port blockade, day 130; Iran starts scheduled power rationing. (FOX NEWS, CBS)"),
