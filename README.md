@@ -1,26 +1,17 @@
-# Sunday 22 November 2026: 38 stories, 8 regions
+# News Image — 22 November 2026
 
-A one-day world news front page for the make.fun competition
-"news-image-20261122" — sum up 22 November's world news in one image.
+[![make.fun bounty](https://make.fun/badge/news-image-20261122.svg)](https://make.fun/bounty/news-image-20261122)
+[![make.fun rank](https://make.fun/badge/news-image-20261122/ELVINO1806/news-image-20261122/rank.svg)](https://make.fun/bounty/news-image-20261122)
+[![make.fun reward](https://make.fun/badge/news-image-20261122/ELVINO1806/news-image-20261122/reward.svg)](https://make.fun/bounty/news-image-20261122)
 
-The image shows: a giant date masthead, the three lead stories
-(COP31 collapses with no deal, 186 drones over Ukraine, the Russian
-warship Merkury sunk at Benghazi) as drawn panels, a numbers strip,
-a region bar, the full list of 38 verified stories across 8 regions,
-a dot-matrix world map with pins, an ALSO ON list, a red DATE CHECK
-box listing big stories that are NOT 22 November and were left out
-on purpose, and a footer stating every story happened, or was first
-reported, on Sunday 22 November 2026.
+[View the make.fun bounty](https://make.fun/bounty/news-image-20261122)
 
-## Run
+This entry turns one day of world news into a single front-page image. It presents 38 verified stories from 22 November 2026 across 8 regions beneath a giant date masthead. Three illustrated lead stories anchor the page: COP31 collapses with no deal, 186 drones over Ukraine, and the warship Merkury sunk at Benghazi. A numbers strip and region bar frame the stories, while a dot-matrix map with pins, an ALSO ON list, and a red DATE CHECK box complete the front page.
+
+## Run it
 
 ```sh
 python3 main.py
 ```
 
-Writes `entry.png` (1024x1024, under 1 MiB) to `$MAKEFUN_OUTPUT_DIR`,
-or `/output` when that variable is not set (run locally with
-`MAKEFUN_OUTPUT_DIR=out python3 main.py`). Python 3.13 standard
-library only, no network: the program draws everything with its own
-PNG encoder, rasteriser and 5x7 bitmap font. Two runs write
-byte-identical files.
+The program writes a deterministic 1024 × 1024 `entry.png`, under 1 MiB, to `$MAKEFUN_OUTPUT_DIR` or `/output`. It uses only the Python standard library and needs no network access.
